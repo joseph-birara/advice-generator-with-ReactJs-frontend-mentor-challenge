@@ -17,9 +17,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -39,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/joseph-birara/advice-generator-with-ReactJs-frontend-mentor-challenge)
+- Live Site URL: [netlify](https://random-advice-generator-reactjs.netlify.app/)
 
 ## My process
 
